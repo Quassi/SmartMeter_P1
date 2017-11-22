@@ -1,0 +1,4 @@
+22-11-2017 18:28:22: mySQL.connect : Unable to connect to any of the specified MySQL hosts	Cannot connect to server.  Contact administrator
+.
+22-11-2017 18:28:43: mySQL.connect : Unable to connect to any of the specified MySQL hosts	Cannot connect to server.  Contact administrator
+.
